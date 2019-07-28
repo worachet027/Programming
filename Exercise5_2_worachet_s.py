@@ -1,0 +1,5 @@
+s=float(input("ระยะทาง(km)"))
+t=float(input("เวลา(h)"))
+print("=================")
+print(s/t,"km/h")
+print("=================")
