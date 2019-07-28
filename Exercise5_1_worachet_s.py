@@ -1,0 +1,8 @@
+n=float(input("n"))
+m=float(input("m"))
+print("=================")
+print(n,"+",m,"=",n+m)
+print(n,"-",m,"=",n-m)
+print(n,"*",m,"=",n*m)
+print(n,"/",m,"=",n/m)
+print("=================")
