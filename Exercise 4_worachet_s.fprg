@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="acer"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2562-08-03 10:43:11 PM"/>
+        <attribute name="created" value="YWNlcjtERVNLVE9QLUo5TlJWOTQ7MjU2Mi0wOC0wMzswOTozNzo0MyBQTTsyNzc2"/>
+        <attribute name="edited" value="YWNlcjtERVNLVE9QLUo5TlJWOTQ7MjU2Mi0wOC0wMzsxMDo0MzoxMSBQTTsxOzI4Njg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="d" type="Integer" array="False" size=""/>
+            <declare name="c" type="Integer" array="False" size=""/>
+            <declare name="b" type="Integer" array="False" size=""/>
+            <declare name="a" type="Integer" array="False" size=""/>
+            <assign variable="d" expression="79"/>
+            <assign variable="c" expression="98"/>
+            <assign variable="b" expression="88"/>
+            <assign variable="a" expression="74"/>
+            <output expression="(&quot;------Your Score------&quot;)" newline="True"/>
+            <output expression="(&quot;Foundation English:&quot;)&amp;d" newline="True"/>
+            <output expression="(&quot;General Business:&quot;)&amp;c" newline="True"/>
+            <output expression="(&quot;Introduction to Computer:&quot;)&amp;b" newline="True"/>
+            <output expression="(&quot;Computer Programming:&quot;)&amp;a" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
